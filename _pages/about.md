@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I am Xuzhe Song.
+Welcome to my page! I am Xuzhe Song!!!
